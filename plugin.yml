@@ -1,0 +1,8 @@
+name: World_Command
+version: 1.0
+main: me.MnMaxon.WorldCommand.Main
+commands:
+   WorldCommand:
+      description: Displays Help
+   WC:
+      description: Displays Help
